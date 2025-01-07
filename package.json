@@ -1,0 +1,14 @@
+
+{
+  "name": "ai16z-framework",
+  "version": "1.0.0",
+  "description": "A Web3-focused framework with AI and swarm agent integrations.",
+  "main": "src/framework.js",
+  "scripts": {
+    "start": "node src/framework.js",
+    "test": "node test/test-framework.js"
+  },
+  "author": "AI16z Team",
+  "license": "MIT",
+  "dependencies": {}
+}
